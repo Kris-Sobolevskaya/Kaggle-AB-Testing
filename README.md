@@ -49,8 +49,8 @@ This project evaluates the performance of two digital advertising strategies —
 ---
 
 ##  Files
-- ``: Raw and cleaned datasets.
-- ``: Main analysis script (EDA + hypothesis testing).
+- ``: Raw datasets.
+- `KaggleABTesting.ipynb`: Main analysis script (EDA + hypothesis testing).
 - `README.md`: Project overview and key results.
 
 ---
